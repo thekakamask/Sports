@@ -16,34 +16,118 @@
     <string name="table_tennis">Table Tennis</string>
     <string name="tennis">Tennis</string>
 
-    <string name="sports_list_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum.</string>
-    <string name="sport_detail_text">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
-        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
-        diam fringilla tellus, eu euismod mauris neque at neque.
-        \n\n
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
-        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
-        diam fringilla tellus, eu euismod mauris neque at neque.
-        \n\n
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
-        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
-        diam fringilla tellus, eu euismod mauris neque at neque.
-        \n\n
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
-        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
-        diam fringilla tellus, eu euismod mauris neque at neque.
-        \n\n
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
-        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
-        diam fringilla tellus, eu euismod mauris neque at neque.
-    </string>
+    <string name="sports_list_baseball">Baseball is a classic sport steeped in tradition, often referred to as "America's pastime.</string>
+    <string name="sports_list_badminton">Badminton is a high-speed racket sport that combines agility, precision, and endurance.</string>
+    <string name="sports_list_basketball">Basketball is a dynamic and fast-paced sport that requires skill, strategy, and teamwork.</string>
+    <string name="sports_list_bowling">Bowling is a precision-based sport that involves rolling a heavy ball down a lane to knock over pins arranged in a triangular formation.</string>
+    <string name="sports_list_cycling">Cycling is a versatile and enduring sport that emphasizes endurance, speed, and precision.</string>
+    <string name="sports_list_golf">Golf is a sport of precision, patience, and strategy.</string>
+    <string name="sports_list_running">Running is one of the most accessible and universal forms of exercise and competition.</string>
+    <string name="sports_list_soccer">Soccer, also known as football, is the world’s most popular sport, captivating billions of fans.</string>
+    <string name="sports_list_swimming">Swimming is a versatile and demanding sport that tests endurance, speed, and technique.</string>
+    <string name="sports_list_table_tennis">Table tennis, also known as ping-pong, is a fast-paced racket sport played on a rectangular table divided by a net.</string>
+    <string name="sports_list_tennis">Tennis is a sport of precision, power, and strategy, played between two players (singles) or two teams of two (doubles).</string>
 
+    <string name="sport_detail_baseball">Baseball is a classic sport steeped in tradition, often referred to as \"America\'s pastime.\" Played between two teams of nine players, the objective
+        is to score runs by hitting a ball with a bat and running through a series of bases arranged in a diamond shape. Each team alternates between
+        batting and fielding, with the fielding team aiming to prevent the batting team from scoring by catching the ball or tagging runners out.
+        \n\nThe sport requires a combination of physical skill and strategic thinking. Batters must possess excellent hand-eye coordination to hit the ball,
+        while pitchers use a variety of throws, like fastballs and curveballs, to challenge their opponents. Fielders need agility and precision to catch
+        balls and make accurate throws to tag out runners. The game is structured in nine innings, with each inning offering opportunities for strategic
+        plays.
+        \n\nBaseball\'s charm lies in its blend of individual brilliance and teamwork. Iconic players like Babe Ruth and Jackie Robinson have left a lasting
+        legacy, and major leagues such as MLB attract millions of fans annually. With its rich history, compelling rivalries, and timeless appeal, baseball
+        continues to captivate audiences worldwide.</string>
+    <string name="sport_detail_badminton">Badminton is a high-speed racket sport that combines agility, precision, and endurance. Played on a rectangular court divided by a net, the
+        objective is to hit a shuttlecock over the net and land it in the opponent\’s court. Matches are played as singles or doubles, and players must
+        rely on quick reflexes and tactical gameplay to outsmart their opponents.
+        \n\nWhat sets badminton apart is the speed and trajectory of the shuttlecock, which can travel at over 300 km/h during professional games. Players need to
+        master a variety of shots, including smashes, drops, and clears, to dominate the court. The sport demands exceptional footwork and stamina, as
+        rallies often involve rapid changes in direction.
+        \n\nBadminton is particularly popular in countries like China, Indonesia, and Denmark, where it enjoys a rich history and strong competitive culture. It is
+        also a prominent Olympic sport, attracting millions of viewers globally. The sport\'s blend of physical intensity and strategic depth makes it a
+        thrilling experience for both players and spectators.</string>
+    <string name="sport_detail_basketball">Basketball is a dynamic and fast-paced sport that requires skill, strategy, and teamwork. Played on a rectangular court with a hoop at each end,
+        the objective of the game is to score points by shooting the ball through the opposing team’s hoop. A standard basketball game is played between
+        two teams of five players each, and the game is divided into four quarters. Players need agility, precision, and quick decision-making to
+        outmaneuver their opponents and execute effective plays.
+        \n\nThe game offers a blend of athleticism and strategy. Dribbling, passing, and shooting are essential skills, while defensive maneuvers like blocking
+        and stealing add depth to the game. Basketball is not just about individual brilliance but also about how players synchronize their actions as a
+        team. From setting screens to executing pick-and-rolls, teamwork is vital to success.
+        \n\nGlobally popular, basketball has produced legendary athletes like Michael Jordan, LeBron James, and Kobe Bryant, who have become cultural icons.
+        The sport is played at various levels, from street courts to professional leagues like the NBA. Its appeal lies in its simplicity and accessibility,
+        making it a favorite among players and fans worldwide.</string>
+    <string name="sport_detail_cycling">Cycling is a versatile and enduring sport that emphasizes endurance, speed, and precision. Whether on the road, track, or trails, cycling offers
+        a unique blend of physical challenge and exploration. Competitive cycling includes road races, time trials, and mountain biking, each requiring
+        specialized skills and equipment.
+        \n\nEndurance and strategy are key in cycling, particularly in long-distance events like the Tour de France. Riders must conserve energy, draft behind
+        others, and strategically time their efforts to outperform opponents. In track cycling, explosive speed and aerodynamics are crucial for success
+        in events like sprints and pursuit races.
+        \n\nBeyond competition, cycling is a popular recreational activity and an eco-friendly mode of transport. It promotes cardiovascular health, builds muscle
+        strength, and provides a sense of freedom. With its wide-ranging appeal and global reach, cycling continues to inspire both athletes and casual
+        enthusiasts.</string>
+    <string name="sport_detail_bowling">Bowling is a precision-based sport that involves rolling a heavy ball down a lane to knock over pins arranged in a triangular formation. The
+        objective is to score the highest number of points by knocking down as many pins as possible in each turn. A standard game consists of ten frames,
+        with players aiming for strikes (knocking down all pins in one roll) and spares (clearing all pins in two rolls).
+        \n\nThe sport is both recreational and competitive, appealing to players of all ages. Bowling requires accuracy, control, and consistency. Players must
+        carefully analyze the lane\'s conditions, such as oil patterns, to adjust their technique and achieve the desired trajectory. The balance between
+        skill and strategy adds depth to the game.
+        \n\nBowling alleys are social hubs where friends and families gather for casual fun. However, professional bowling is a highly competitive field, with
+        tournaments like the Professional Bowlers Association (PBA) Tour drawing skilled athletes from around the world. The sport’s universal appeal
+        ensures its place as a timeless recreational activity.</string>
+    <string name="sport_detail_golf">Golf is a sport of precision, patience, and strategy. Played on expansive courses with varying terrains, the objective is to hit a small ball
+        into a series of holes using as few strokes as possible. Each hole presents unique challenges, including bunkers, water hazards, and slopes,
+        requiring players to adapt their techniques and strategies.
+        \n\nThe game emphasizes mental focus and consistency. Players choose from a range of clubs to execute different shots, such as drives, chips, and putts,
+        depending on the distance and terrain. Golfers must also factor in external conditions like wind and weather, adding an element of unpredictability
+        to the game.
+        \n\nWith prestigious tournaments like The Masters and The Open Championship, golf has a rich history and global following. Iconic players like Tiger
+        Woods and Jack Nicklaus have elevated the sport’s profile, inspiring generations of golfers. Golf’s unique combination of skill, strategy, and
+        scenic settings make it a favorite among sports enthusiasts.</string>
+    <string name="sport_detail_running">Running is one of the most accessible and universal forms of exercise and competition. Whether sprinting over short distances or participating in
+        endurance marathons, running tests physical and mental stamina. It is a fundamental activity that forms the basis of many other sports and fitness
+        routines.
+        \n\nSprint events like the 100-meter dash focus on explosive speed and power, while long-distance running emphasizes endurance and pacing. Runners must
+        maintain optimal form and breathing techniques to maximize efficiency and reduce fatigue. Races like marathons and ultramarathons push athletes to
+        their physical and psychological limits.
+        \n\nBeyond competition, running is celebrated for its health benefits. It improves cardiovascular fitness, strengthens muscles, and releases endorphins,
+        often called the "runner's high." As a versatile activity, running attracts people of all ages and fitness levels, making it a cornerstone of
+        global fitness culture.</string>
+    <string name="sport_detail_soccer">Soccer, also known as football, is the world\’s most popular sport, captivating billions of fans. Played by two teams of eleven players on a
+        rectangular field, the objective is to score goals by propelling the ball into the opponent\’s net. Soccer combines skill, strategy, and athleticism,
+        making it a truly global phenomenon.
+        \n\nThe game is celebrated for its simplicity, requiring only a ball and an open space to play. However, professional soccer demands technical
+        excellence, tactical awareness, and teamwork. Players must master dribbling, passing, shooting, and defending, while coaches devise strategies
+        to outmaneuver opponents.
+        \n\nMajor tournaments like the FIFA World Cup and UEFA Champions League showcase the sport\'s thrilling action and passionate fan culture. Soccer legends
+        like Pelé, Diego Maradona, and Lionel Messi have transcended the game, inspiring millions. Its universal appeal and unifying spirit make soccer
+        more than just a sport—it’s a way of life.</string>
+    <string name="sport_detail_swimming">Swimming is a versatile and demanding sport that tests endurance, speed, and technique. Whether competing in freestyle, backstroke, breaststroke,
+        or butterfly, swimmers aim to cover a set distance in the shortest time possible. It is one of the core events in the Olympic Games, drawing global
+        attention.
+        \n\nThe sport emphasizes efficiency in movement. Swimmers need precise stroke mechanics, strong propulsion, and rhythmic breathing to excel. Training
+        often includes intense sessions focusing on technique, strength, and endurance, as well as mental preparation for races.
+        \n\nBeyond competition, swimming is a vital life skill and a popular recreational activity. It improves cardiovascular fitness, builds muscle strength,
+        and is low-impact, making it accessible to people of all ages. From competitive meets to leisurely swims, the sport’s versatility ensures its
+        enduring popularity.</string>
+    <string name="sport_detail_table_tennis">Table tennis, also known as ping-pong, is a fast-paced racket sport played on a rectangular table divided by a net. The objective is to score points
+        by hitting a lightweight ball over the net and into the opponent’s side of the table. Singles and doubles formats require quick reflexes, precision,
+        and strategy.
+        \n\nThe sport is known for its rapid exchanges, with top players delivering spins and smashes at incredible speeds. Mastery of spin, placement, and
+        timing is essential for success. Table tennis also demands mental agility, as players must anticipate their opponent’s moves and adapt their tactics
+        accordingly.
+        \n\nPopular worldwide, particularly in Asia and Europe, table tennis is both a recreational pastime and a competitive sport. It is a staple of
+        international events like the Olympics and World Championships. Its combination of speed, skill, and accessibility makes table tennis a beloved
+        sport across cultures.</string>
+    <string name="sport_detail_tennis">Tennis is a sport of precision, power, and strategy, played between two players (singles) or two teams of two (doubles). The objective is to hit
+        a ball over the net and into the opponent’s court, aiming to outmaneuver them and win points. Matches are played on various surfaces, including
+        grass, clay, and hard courts, each offering unique challenges.
+        \n\nPlayers must master a range of shots, including serves, volleys, and groundstrokes, to dominate the game. Physical endurance and mental toughness
+        are crucial, as matches can last several hours. Strategy plays a vital role, with players analyzing their opponent’s strengths and weaknesses to
+        gain an edge.
+        \n\nTennis boasts iconic tournaments like Wimbledon and the US Open, which attract global audiences. Legends such as Serena Williams, Roger Federer,
+        and Rafael Nadal have elevated the sport with their exceptional skills and sportsmanship. Tennis continues to inspire players and fans with its
+        blend of athleticism and elegance.</string>
     <plurals name="player_count_caption">
         <item quantity="one">1 Player</item>
         <item quantity="other">%1$d Players</item>

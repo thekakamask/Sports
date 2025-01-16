@@ -11,6 +11,7 @@
       - Use of Jetpack Compose for a declarative user interface.
       - Integration of Material 3 for a modern, accessible design.
       - Support for light and dark themes
+      - Adaptative Ui for smartphone and tablet.
 
 ## 🛠️ **Tech Stack**
    - **Kotlin**: Modern, concise language for Android development.
@@ -18,6 +19,7 @@
    - **Material 3**: Modern, accessible user interface.
    - **StateFlow**: Reactive state management for real-time updates.
    - **ViewModel**: MVVM architecture to separate business logic from user interface.
+   - **WindowSizeClass**: Adaptative Ui.
 
 ## 📦 **Project Structure**
 **Packages**:
@@ -30,7 +32,7 @@
 3. **Ui**:
    - Implements the user interface using Jetpack Compose:
       - **SportsApp**: application's main entry point.
-      - **SportsList**: Display sports list.
+      - **SportsScreen**: Display sports list.
       - **SportsDetail**: Displays the details of a selected sport.
 4. **Viewmodel**:
    - Manages reactive states with StateFlow:
@@ -44,16 +46,19 @@
 3. **View sport details**:
    - Tap on a sport to see its details.
 4. **Navigate between screens**:
-   - Use the top bar to return to the list or explore details.
+   - Use the top bar to return to the list or explore details (in portrait).
 
 ## 📸 **Screenshots**
-- **Sports app main screen**:
+- **Main screen**:
 
    ![main screen](screenshots/Sports1.png)
 
-- **Sport details screen**:
+- **Details screen**:
 
    ![details](screenshots/Sports2.png)
+
+- **Landscape main screen**:
+   ![landscape](screenshots/Sports3.png)
 
 ## 🤝 **Contributions**
 Contributions are welcome! Feel free to fork the repository and submit a pull request for new features or bug fixes.
